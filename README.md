@@ -1,4 +1,4 @@
-# FlyPrinter
+# AIMIS_SIMULATOR: Simulator for the AIMIS_PRINTER
 
 Simulator.ini:
 In dieser Datei ist der 3D-Drucker konfiguriert. 
